@@ -1,4 +1,4 @@
-# OrdenarTabla
+# Excel Ordenar Tabla
 
 Este proyecto contiene un script en VBA que ordena una tabla en la hoja "Hoja1" de un libro de Excel de forma ascendente.
 
